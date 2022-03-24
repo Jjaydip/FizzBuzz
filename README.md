@@ -3,14 +3,16 @@ Hoping my effort isn't wasted and i get a follow up interview to prove myself
 
 
 ---------------------------------------------------
+
 This Web application was built using NodeJS, ExpressJS, Mocha
----------------------------------------------------
+
+---------------------------------------------
 
 The application is hosted on heroku at :
 https://fizzbuzzapp.herokuapp.com
 
-
 If running in local, the port is 4444
+
 ---------------------------------------------------
 Sample REST calls made to the Web app
 
